@@ -1,0 +1,5 @@
+Bundle-Name: VidaSolCambioAutoPortlet
+Bundle-SymbolicName: com.tokio.vida.VidaSolCambioAutoPortlet
+Bundle-Version: 1.0.0
+Export-Package: com.tokio.vida.constants
+
